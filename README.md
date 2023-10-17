@@ -16,7 +16,7 @@ The Atomic Blog is a React application that allows users to create, search, and 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Mahmoud-AbouDeghedy/atomic-blog.git
+   git clone https://github.com/Mahmoud-AbouDeghedy/Atomic-Blog
    ```
 
 2. Install dependencies:
