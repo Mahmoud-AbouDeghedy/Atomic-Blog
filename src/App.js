@@ -120,7 +120,7 @@ function FormAddPost() {
 }
 
 function List() {
-	const { posts } = usePosts;
+	const { posts } = usePosts();
 	return (
 		<ul>
 			{posts.map((post, i) => (
